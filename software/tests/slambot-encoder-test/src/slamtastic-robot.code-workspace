@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "slambot-encoder-test",
+			"path": ".."
+		},
+		{
+			"path": "../../../../../robot-car"
+		},
+		{
+			"name": "slambot-teleop-test",
+			"path": "../../../../../PlatformIO/Projects/slambot-teleop-test"
+		}
+	],
+	"settings": {}
+}
